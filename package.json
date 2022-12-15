@@ -1,0 +1,29 @@
+{
+  "name": "owly_app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@trendyol-js/react-carousel": "^3.0.0",
+    "aos": "^2.3.4",
+    "next": "13.0.6",
+    "react": "^18.2.0",
+    "react-burger-menu": "^3.0.8",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1",
+    "react-multi-carousel": "^2.8.2",
+    "react-simply-carousel": "^8.4.1",
+    "swiper": "^8.4.5",
+    "tw-elements": "^1.0.0-alpha13"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20",
+    "tailwindcss": "^3.2.4"
+  }
+}
